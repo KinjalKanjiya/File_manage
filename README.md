@@ -8,5 +8,5 @@ To sort and organize these files is a tedious and time-consuming task, especiall
 
 For instance, in the photos directory, we have 1000s of photos that are required to be arranged in different manners with a proper directory structure. This work can be automated with minimal time and save human energy.
 
-Clarifying/Providing constraints:
+# Clarifying/Providing constraints:
 There are many ways through which files can be organized with a proper directories structure such as, category wise(Docs, Photos, Audio, Videos, etc), extension wise(.mp3, .mp4, .mkv, etc), nested folder structure (Year->Month->Week), etc. Given the complex nature of the problem, your goal is to design an automated script that will provide various options for arranging files with minimum time.
